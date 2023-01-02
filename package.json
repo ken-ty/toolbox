@@ -1,0 +1,20 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "十徳ナイフ web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-ty/toolbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ken-ty/toolbox/issues"
+  },
+  "homepage": "https://github.com/ken-ty/toolbox#readme"
+}
